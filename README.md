@@ -16,7 +16,7 @@ This is a lightweight system monitoring application built with C (backend) and Q
 
 ### Run the Application
 - Open the extracted folder.
-- Navigate to the application folder.
+- Navigate to the folder named Application.
 - Right-click systemMonitorAPP.exe and select Run as administrator.
 
 ## Building from Source 
