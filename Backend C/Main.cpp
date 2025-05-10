@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <tlhelp32.h>
 
-#define FILE_PATH "C:\\temp\\sysmon_data.txt"
+#define FILE_PATH "C:\\sysmon_data.txt"
 #define UI_PROCESS_NAME "SystemMonitor.exe"
 
 

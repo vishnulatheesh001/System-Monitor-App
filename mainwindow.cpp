@@ -44,7 +44,7 @@ MainWindow::MainWindow(QWidget *parent)
 void MainWindow::updateUI() {
 
     // File operations..........................................................
-    QFile file("C:/temp/sysmon_data.txt");
+    QFile file("C:/sysmon_data.txt");
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) return;
 
     QTextStream in(&file);
